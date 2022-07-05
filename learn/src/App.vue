@@ -5,6 +5,7 @@ import WebSiteSFC from './view/WebSiteSFC.vue';
 import WebSiteInput from './view/WebSiteInput.vue';
 import WebSiteAttribute from './view/WebSiteAttribute.vue';
 import WebSiteLoop from './view/WebSiteLoop.vue';
+import WebSiteForm from './view/WebSiteForm.vue';
 
 </script>
 
@@ -28,6 +29,7 @@ import WebSiteLoop from './view/WebSiteLoop.vue';
   <WebSiteInput></WebSiteInput>
   <WebSiteAttribute></WebSiteAttribute>
   <WebSiteLoop></WebSiteLoop>
+  <WebSiteForm></WebSiteForm>
 </template>
 
 <style>
