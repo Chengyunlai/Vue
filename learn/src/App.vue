@@ -4,6 +4,7 @@ import TheWelcome from './components/TheWelcome.vue'
 import WebSiteSFC from './view/WebSiteSFC.vue';
 import WebSiteInput from './view/WebSiteInput.vue';
 import WebSiteAttribute from './view/WebSiteAttribute.vue';
+import WebSiteLoop from './view/WebSiteLoop.vue';
 
 </script>
 
@@ -26,6 +27,7 @@ import WebSiteAttribute from './view/WebSiteAttribute.vue';
   <WebSiteSFC></WebSiteSFC>
   <WebSiteInput></WebSiteInput>
   <WebSiteAttribute></WebSiteAttribute>
+  <WebSiteLoop></WebSiteLoop>
 </template>
 
 <style>
