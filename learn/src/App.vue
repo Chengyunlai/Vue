@@ -6,6 +6,7 @@ import WebSiteInput from './view/WebSiteInput.vue';
 import WebSiteAttribute from './view/WebSiteAttribute.vue';
 import WebSiteLoop from './view/WebSiteLoop.vue';
 import WebSiteCompoent from './view/WebSiteCompoent.vue';
+import Markdown from './view/Markdown.vue';
 
 </script>
 
@@ -30,6 +31,7 @@ import WebSiteCompoent from './view/WebSiteCompoent.vue';
   <WebSiteAttribute></WebSiteAttribute>
   <WebSiteLoop></WebSiteLoop>
   <WebSiteCompoent></WebSiteCompoent>
+  <Markdown></Markdown>
 </template>
 
 <style>
